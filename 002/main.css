@@ -1,0 +1,18 @@
+#resultContent {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#pager {
+  display: flex;
+  justify-content: space-around;
+}
+
+.result-item {
+  width: 200px;
+  margin-bottom: 16px;
+}
+
+.track-name {
+  font-weight: bold;
+}
